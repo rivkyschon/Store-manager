@@ -1,0 +1,80 @@
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalTest.exe
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalTest.deps.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalTest.runtimeconfig.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalTest.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalTest.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalTest.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalTest.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalTest.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalTest.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalTest.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalTest.exe
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalTest.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalTest.runtimeconfig.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalTest.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalTest.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalTest.exe
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalTest.deps.json
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalTest.runtimeconfig.json
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalTest.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalTest.pdb
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.pdb
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalTest\obj\Debug\ref\DalTest.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalTest.exe
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalTest.deps.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalTest.runtimeconfig.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalTest.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalTest.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\refint\DalTest.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalTest\obj\Debug\ref\DalTest.dll

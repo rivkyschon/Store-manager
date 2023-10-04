@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <ID>200000</ID>
+    <Name>Rivky</Name>
+    <Email>Rizel</Email>
+    <Address>aaa</Address>
+    <Password>1234</Password>
+  </User>
+  <User>
+    <ID>200001</ID>
+    <Name>r</Name>
+    <Email>r@r.rr</Email>
+    <Address>r</Address>
+    <Password>r</Password>
+  </User>
+</ArrayOfUser>

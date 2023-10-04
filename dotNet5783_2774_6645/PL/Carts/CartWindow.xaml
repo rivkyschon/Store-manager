@@ -1,0 +1,56 @@
+﻿<Window x:Class="PL.Carts.CartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Carts"
+        mc:Ignorable="d"
+        Title="CartWindow" Height="450" Width="800">
+    <Grid>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" x:Name="ProductsItemListview" ItemsSource="{Binding cart.Items}" Background="White" Foreground="#FF041F65" Margin="50,10,50,92" >
+            <ListView.View  >
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Employee Information" >
+
+                    <GridViewColumn DisplayMemberBinding="{Binding ProductID, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"   Header="ID" Width="100"/>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Name, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Header="Name" Width="100"/>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Price, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Header="Price" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Amount, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Header="Amount" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding TotalPrice , Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Header="TotalPrice" Width="100"/>
+                    <GridViewColumn Header="Update Amount" Width="100" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition   Width="*"/>
+                                        <ColumnDefinition   Width="*"/>
+                                        <ColumnDefinition   Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Button Grid.Column="0" x:Name="decreaseProductBtn"  Content="-" Height="20" Width="15" Margin="10,3,0,0" Click="changeProductAmountBtn_Click" />
+                                    <TextBox Grid.Column="1" Height="23"  TextWrapping="Wrap" Width="22" Name="updatedAmount" Margin="5,3,0,0" Text="{Binding Path=Amount, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"/>
+                                    <Button Grid.Column="2" x:Name="addProductAmountBtn" Content="+" Width="15" Margin="5,3,0,0" VerticalAlignment="Top" Click="changeProductAmountBtn_Click" />
+                                </Grid>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Grid.Column="0" Content="delete" Name="updateAmountTxt" Height="20" Margin="15,4,0,0" Click="deleteBtn_Click"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Label Content="Total Price" HorizontalAlignment="Left" Height="31" Margin="467,381,0,0" VerticalAlignment="Top" Width="74"/>
+        <TextBox Name="TotalPriceTxt" HorizontalAlignment="Left" Height="33" Margin="549,379,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" IsReadOnly="True" Text="{Binding cart.TotalPrice, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"/>
+
+        <Button Content="confirm order" Name="confirmOrderBtn" Visibility="{Binding Path=isAdmin, Mode=Default, Converter={StaticResource TrueToHidden}}" Margin="265,372,439,10" Click="confirmOrderBtn_Click"/>
+        <Button Content="Add Item" Name="addItemBtn"  HorizontalAlignment="Left" Height="52" Margin="137,372,0,0" VerticalAlignment="Top" Width="101" Click="addItemBtn_Click" />
+    </Grid>
+</Window>

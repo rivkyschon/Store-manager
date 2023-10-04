@@ -1,0 +1,91 @@
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\Simulator.deps.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\Simulator.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\Simulator.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\Simulator.deps.json
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\Simulator.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\Simulator.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\Simulator.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\Simulator\obj\Debug\ref\Simulator.dll

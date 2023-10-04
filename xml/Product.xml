@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Product>
+		<ID>100000</ID>
+		<Name>  Ravioli  </Name>
+		<Price>99</Price>
+		<Category>Pasta_</Category>
+		<Amount>4135</Amount>
+		<Image>..\\..\\img\100000.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100001</ID>
+		<Name> Pizza  </Name>
+		<Price>12</Price>
+		<Category>Pizza_</Category>
+		<Amount>12</Amount>
+		<Image>..\\..\\img\100001.png</Image>
+	</Product>
+	<Product>
+		<ID>100002</ID>
+		<Name> Sandwich  </Name>
+		<Price>69</Price>
+		<Category>Bagels</Category>
+		<Amount>2163</Amount>
+		<Image>..\\..\\img\100002.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100003</ID>
+		<Name>Ice coffee </Name>
+		<Price>100</Price>
+		<Category>Drinks</Category>
+		<Amount>4870</Amount>
+		<Image>..\\..\\img\100003.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100004</ID>
+		<Name>  Coffee   </Name>
+		<Price>15</Price>
+		<Category>Drinks</Category>
+		<Amount>2044</Amount>
+		<Image>..\\..\\img\100004.JPG</Image>
+	</Product>
+	<Product>
+		<ID>100005</ID>
+		<Name>   Baguet  </Name>
+		<Price>56</Price>
+		<Category>Bagels</Category>
+		<Amount>1584</Amount>
+		<Image>..\\..\\img\100005.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100006</ID>
+		<Name>Greek Salad</Name>
+		<Price>53</Price>
+		<Category>Salads</Category>
+		<Amount>0</Amount>
+		<Image>..\\..\\img\100006.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100007</ID>
+		<Name> XL pizza  </Name>
+		<Price>99</Price>
+		<Category>Pizza_</Category>
+		<Amount>3856</Amount>
+		<Image>..\\..\\img\100007.png</Image>
+	</Product>
+	<Product>
+		<ID>100008</ID>
+		<Name>Basic Salad</Name>
+		<Price>77</Price>
+		<Category>Salads</Category>
+		<Amount>1846</Amount>
+		<Image>..\\..\\img\100008.jpg</Image>
+	</Product>
+	<Product>
+		<ID>100009</ID>
+		<Name> Coca Cola </Name>
+		<Price>28</Price>
+		<Category>Drinks</Category>
+		<Amount>2333</Amount>
+		<Image>..\\..\\img\100009.jpg</Image>
+	</Product>
+</ArrayOfProduct>

@@ -1,0 +1,502 @@
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.baml
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\userDetails.baml
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\userDetails.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\userDetails.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Window1.g.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\PL\obj\Debug\Window1.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\PL.exe
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\PL.deps.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\PL.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\PL.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\PL.exe
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\PL.deps.json
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\PL.runtimeconfig.json
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\PL.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\PL.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductListWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\App.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\App.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\AdminWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Carts\CartWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\MainWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderListWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\OrderTrackingWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Orders\userDetails.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductItemWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\Products\ProductWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\SimulatorWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\User\SignInWindow.baml
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.g.resources
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\refint\PL.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\PL\obj\Debug\ref\PL.dll

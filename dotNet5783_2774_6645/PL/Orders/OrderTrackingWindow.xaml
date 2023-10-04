@@ -1,0 +1,17 @@
+﻿<Window x:Class="PL.Orders.OrderTrackingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Orders"
+        mc:Ignorable="d"
+        Title="OrderTrackingWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="search" Name="searchBtn" HorizontalAlignment="Left" Height="39" Margin="494,59,0,0" VerticalAlignment="Top" Width="69" Click="searchBtn_Click" />
+        <TextBox x:Name="orderIdBtn" HorizontalAlignment="Left" Height="39" Margin="289,59,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="181"/>
+        <Label Content="Enter Order ID:" HorizontalAlignment="Left" Height="32" Margin="169,66,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox Name="orderTrackingTxt" BorderBrush="#00000000" HorizontalAlignment="Center" Height="171" Margin="0,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" IsReadOnly="True"/>
+        <Button Content="order details" Name="orderDetailsBtn" HorizontalAlignment="Center" Height="44" Margin="0,356,0,0" VerticalAlignment="Top" Width="118" Click="orderDetailsBtn_Click"/>
+
+    </Grid>
+</Window>

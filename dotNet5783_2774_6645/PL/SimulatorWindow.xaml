@@ -1,0 +1,27 @@
+﻿<Window x:Class="PL.SimulatorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="SimulatorWindow" Height="500" Width="800">
+    <Grid>
+        <TextBox Name="tbTime" IsReadOnly="True" FontSize="20" Margin="472,354,266,83" />
+        <Button Content="Stop Simulation" Name="stopSimulatorBtn" HorizontalAlignment="Left" Height="64" Margin="641,15,0,0" VerticalAlignment="Top" Width="135" Click="stopSimulatorBtn_Click"/>
+        <TextBlock x:Name="simulatorTxt" Text="00:00:00" HorizontalAlignment="Left" Height="80" Margin="22,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="230"/>
+        <StatusBar Name="SBar"  Grid.Column="0" Grid.Row="5" VerticalAlignment="Bottom" >
+            <StatusBarItem Height="80" >
+                <TextBlock Width="72" FontSize="20">Status:</TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+        <Label HorizontalAlignment="Left" Height="36" Margin="385,147,0,0" Content="order ID" VerticalAlignment="Top" Width="67"/>
+        <TextBox Name="orderIDTxt" Text="{Binding order.ID}" HorizontalAlignment="Left" IsReadOnly="True" Height="36" Margin="472,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123"/>
+        <TextBox Name="statusBtn"  Text="{Binding order.Status}" HorizontalAlignment="Left" IsReadOnly="True" Height="36" Margin="472,214,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="123"/>
+        <Label HorizontalAlignment="Left" Height="36" Margin="385,214,0,0" Content="old status" VerticalAlignment="Top" Width="67"/>
+        <TextBox Name="newStatusBtn" HorizontalAlignment="Left" IsReadOnly="True" Height="44" Margin="472,283,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="123" Text="{Binding newStatus}"/>
+        <Label HorizontalAlignment="Left" Height="36" Margin="385,283,0,0" Content="new status" VerticalAlignment="Top" Width="67"/>
+        <TextBlock HorizontalAlignment="Left" Height="45" Margin="385,354,0,0" TextWrapping="Wrap" Text="time remain" VerticalAlignment="Top" Width="67"/>
+    </Grid>
+    
+</Window>

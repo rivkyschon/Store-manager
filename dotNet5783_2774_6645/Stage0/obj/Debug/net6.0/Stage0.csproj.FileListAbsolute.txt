@@ -1,0 +1,90 @@
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.exe
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.deps.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.runtimeconfig.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CopyComplete
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\refint\Stage0.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\ref\Stage0.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.exe
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.runtimeconfig.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CopyComplete
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\refint\Stage0.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\ref\Stage0.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.exe
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.runtimeconfig.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CopyComplete
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\refint\Stage0.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.genruntimeconfig.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\ref\Stage0.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.exe
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.deps.json
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.runtimeconfig.json
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.pdb
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfo.cs
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CopyComplete
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\refint\Stage0.dll
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.pdb
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.genruntimeconfig.cache
+C:\Users\USER\source\repos\dotNet5783_2774_66\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\ref\Stage0.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.exe
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.deps.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.runtimeconfig.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\Stage0.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\bin\Debug\net6.0\DalFacade.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.AssemblyReference.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfoInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.AssemblyInfo.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CoreCompileInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.csproj.CopyComplete
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\refint\Stage0.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\Stage0.genruntimeconfig.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\Stage0\obj\Debug\net6.0\ref\Stage0.dll

@@ -1,0 +1,15 @@
+﻿<Window x:Class="PL.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Product List" Name="ProductListWindow" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.32,0.294" Margin="290,241,366,121" Click="ProductListWindow_Click"/>
+        <Button Content="Order List" Name="OrderListWindow" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.32,0.294" Margin="289,107,366,254" Click="OrderListWindow_Click"/>
+        <Button Content="Product List" x:Name="ProductListWindow_Copy" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.32,0.294" Margin="290,241,366,121" Click="ProductListWindow_Click"/>
+
+    </Grid>
+</Window>

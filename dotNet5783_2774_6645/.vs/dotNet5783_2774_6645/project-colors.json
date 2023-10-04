@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0744f5d-5b84-4cea-a0b6-ca8433b5769b": {
+      "ProjectGuid": "e0744f5d-5b84-4cea-a0b6-ca8433b5769b",
+      "DisplayName": "BL",
+      "ColorIndex": 0
+    },
+    "06f3b601-6549-44dc-9033-58a526869a7c": {
+      "ProjectGuid": "06f3b601-6549-44dc-9033-58a526869a7c",
+      "DisplayName": "PL",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4e2497ca-b639-4cd7-a786-81aa6fe760c9": {
+      "ProjectGuid": "4e2497ca-b639-4cd7-a786-81aa6fe760c9",
+      "DisplayName": "DalFacade",
+      "ColorIndex": 2
+    },
+    "00469470-0f9e-4c24-8b95-5626f4918cbd": {
+      "ProjectGuid": "00469470-0f9e-4c24-8b95-5626f4918cbd",
+      "DisplayName": "Simulator",
+      "ColorIndex": 3
+    },
+    "75e84b8a-5616-4b42-b93a-5291dd0c315d": {
+      "ProjectGuid": "75e84b8a-5616-4b42-b93a-5291dd0c315d",
+      "DisplayName": "xml",
+      "ColorIndex": 4
+    },
+    "d3a7c2a9-e872-4ed0-8af0-d0844369618c": {
+      "ProjectGuid": "d3a7c2a9-e872-4ed0-8af0-d0844369618c",
+      "DisplayName": "DalXml",
+      "ColorIndex": 5
+    },
+    "32f0550a-9d5e-4b75-8b7b-3835715c9f90": {
+      "ProjectGuid": "32f0550a-9d5e-4b75-8b7b-3835715c9f90",
+      "DisplayName": "DalList",
+      "ColorIndex": 6
+    },
+    "a372b354-ebe0-49a3-b393-26572f395b41": {
+      "ProjectGuid": "a372b354-ebe0-49a3-b393-26572f395b41",
+      "DisplayName": "InitializeXmlFiles",
+      "ColorIndex": 7
+    },
+    "2386cd09-9245-40b2-8608-e73208939819": {
+      "ProjectGuid": "2386cd09-9245-40b2-8608-e73208939819",
+      "DisplayName": "DalTest",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

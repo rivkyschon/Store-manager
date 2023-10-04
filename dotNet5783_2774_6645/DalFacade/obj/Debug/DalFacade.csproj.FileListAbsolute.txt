@@ -1,0 +1,132 @@
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\משתמש זה\Downloads\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\ריזל רבקה\Desktop\dotNet5783_2774_66458\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66453\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_664522\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66458888\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\ריזל רבקה\Source\Repos\dotNet5783_2774_6645222\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\dotNet5783_2774_66\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalFacade.deps.json
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalFacade.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\bin\DalFacade.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
+H:\C#\dotNet5783_2774_664511\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\DalFacade.deps.json
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\DalFacade.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\bin\DalFacade.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\USER\Source\Repos\RRRRR\dotNet5783_2774_6645\DalFacade\obj\Debug\ref\DalFacade.dll
